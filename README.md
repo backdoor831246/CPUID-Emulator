@@ -1,6 +1,8 @@
 # CPUID-Emulator
 [Telegram Channel](https://t.me/+5EHmo7zE-KBlYzMy)
 
+[Youtube Video](https://youtu.be/-g_POIvJmlA)
+
 Simple Windows DLL that intercepts and emulates the `CPUID` instruction inside the current process.
 
 ## Overview
